@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This program send everything what you want to remote server. </string>
+    <string name="app_name">SendToServer</string>
+    <string name="type_message">Type your message to send:</string>
+    <string name="submit_button">Send it!</string>
+    <string name="info">This application allows you to send data to remote server. All data are send by POST. You can modify server where you want to send data, you can find it below:</string>
+
+</resources>
